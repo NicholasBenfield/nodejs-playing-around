@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-playing-around",
+  "version": "1.0.0",
+  "description": "Playing around with various NodeJS packages and features",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasBenfield/nodejs-playing-around.git"
+  },
+  "author": "Nicholas Benfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasBenfield/nodejs-playing-around/issues"
+  },
+  "homepage": "https://github.com/NicholasBenfield/nodejs-playing-around#readme"
+}
