@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NicholasBenfield/nodejs-playing-around/issues"
   },
-  "homepage": "https://github.com/NicholasBenfield/nodejs-playing-around#readme"
+  "homepage": "https://github.com/NicholasBenfield/nodejs-playing-around#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
