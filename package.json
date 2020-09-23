@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/NicholasBenfield/nodejs-playing-around#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "helmet": "^4.1.1"
   }
 }
